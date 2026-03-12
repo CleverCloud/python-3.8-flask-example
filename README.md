@@ -1,4 +1,6 @@
-![Clever Cloud logo](/github-assets/clever-cloud-logo.png)
+> [!NOTE]
+  > This repository is pinned to specific versions and is intentionally not updated. It serves as a reference for deploying this particular stack on Clever
+   Cloud. For a more recent example, check the [examples catalog](https://github.com/CleverCloud/examples-and-demos).
 
 # Python 3 Flask Example on Clever Cloud
 [![Clever Cloud - PaaS](https://img.shields.io/badge/Clever%20Cloud-PaaS-orange)](https://clever-cloud.com)
